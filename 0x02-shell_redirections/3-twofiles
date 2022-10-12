@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "ls -la /etc/passwd
+sudo vim /etc/hosts
+
