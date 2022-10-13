@@ -1,0 +1,2 @@
+#!/bin/bash
+root@Linux-world:~# grep -A 3 "root" /etc/passwd
